@@ -1,10 +1,9 @@
- Pac-Man Animation Project
+ Pac-Man Move
 
 This project creates a simple animation of Pac-Man characters that move around a defined container. The Pac-Man characters bounce off the walls, and their images switch based on their movement direction.
 
-## Demo
 
-![Pac-Man Animation](screenshot.png)
+
 
 ## How It Works
 
